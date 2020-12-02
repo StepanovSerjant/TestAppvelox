@@ -41,8 +41,8 @@ __Технологии__:
 
 ### Клонирование репозитория
 ```
-    mkdir Test Appvelox
-    cd Test Appvelox
+    mkdir TestAppvelox
+    cd TestAppvelox
     git clone https://github.com/StepanovSerjant/TestAppvelox.git
 ```
 
