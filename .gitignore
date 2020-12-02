@@ -1,2 +1,6 @@
 __pycache__
+.pytest_cache
 user_auth
+drafts.py
+requirements.txt
+tests
